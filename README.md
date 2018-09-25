@@ -9,5 +9,5 @@ The project was developed as part of OST Alpha Phase III Challenge. You can read
 **Screenshots**
 ![alt text](https://github.com/shaistaiqbal721/CryptoPay/blob/master/screenshots.jpeg "Screenshots")
 
-**To Use**
+**To use the app**
 Simply download the project and run 'pod install' on the project. The project communicates with a web server that in turn interacts with OST APIs.
